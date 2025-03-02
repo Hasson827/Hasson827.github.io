@@ -1,3 +1,26 @@
+# Hello, I'm Hasson! 👋
+
+I’m a first-year student at **Zhejiang University-University of Illinois Urbana-Champaign Institute (ZJUI)**, passionate about the intersection of artificial intelligence and physics.
+
+## 🌟 About Me
+- **Academic Interests**: Machine Learning, Deep Learning, Neural Networks, Diffusion Models, Artificial Intelligence, Condensed Matter Physics
+- **Hobbies**: Coding 💻, occasionally playing volleyball
+- **Current Status**: A beginner exploring the realms of technology and science
+
+## 📚 My Projects
+- **[Diffusion Model Notes](https://github.com/<your-username>/diffusion-notes)**: Under the guidance of **Prof. Meng Xiangming**, I document my journey learning diffusion models, including theoretical insights and code implementations (e.g., DDPM experiments).
+- **Course Support Tools**: Developing small Python tools, such as data analysis and visualization scripts, to enhance my university studies.
+- **Research Work**: Currently researching condensed matter physics in **Prof. Ong Wee Liat**’s group, with plans to open-source related experimental code in the future.
+
+## 🚀 Future Plans
+- Dive deeper into diffusion model applications (e.g., image generation or physical simulations)
+- Combine condensed matter physics experiments with code to explore computational physics
+- Share more AI and science-related projects with the open-source community
+
+## 📫 Contact Me
+- Email: hongshuo.24@intl.zju.edu.cn or hz108@illinois.edu
+- Feel free to star my repositories or reach out to discuss AI, physics, or coding!
+
 # 你好，我是 赵鸿硕！👋
 
 我是**浙江大学海宁国际学院 ZJUI** 的大一学生，对人工智能和物理学、概率论的交叉领域充满热情。
