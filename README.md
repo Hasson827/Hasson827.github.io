@@ -8,7 +8,7 @@ I’m a first-year student at **Zhejiang University-University of Illinois Urban
 - **Current Status**: A beginner exploring the realms of technology and science
 
 ## 📚 My Projects
-- **[Diffusion Model Notes](https://github.com/<your-username>/diffusion-notes)**: Under the guidance of **Prof. Meng Xiangming**, I document my journey learning diffusion models, including theoretical insights and code implementations (e.g., DDPM experiments).
+- **[Diffusion Model Notes](https://github.com/Hasson827/Diffusion-Model-Learning)**: Under the guidance of **Prof. Meng Xiangming**, I document my journey learning diffusion models, including theoretical insights and code implementations (e.g., DDPM experiments).
 - **Course Support Tools**: Developing small Python tools, such as data analysis and visualization scripts, to enhance my university studies.
 - **Research Work**: Currently researching condensed matter physics in **Prof. Ong Wee Liat**’s group, with plans to open-source related experimental code in the future.
 
